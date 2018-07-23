@@ -14,6 +14,7 @@
             set;
         }
         #endregion
+
         #region Constructors
         public MainViewModel()
         {
